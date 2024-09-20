@@ -14,7 +14,7 @@ Tech Analyst with 9 years of experience in system automation in retail. Skilled 
 
 ![Murilo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&theme=radical)
 
-![Murilo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&theme=radical)
+!
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-username&layout=compact&theme=radical)
 
