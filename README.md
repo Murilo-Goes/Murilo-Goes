@@ -1,16 +1,22 @@
-## Hi there 👋
+# Murilo Gés
 
-<!--
-**Murilo-Goes/Murilo-Goes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tech Analyst with 9 years of experience in system automation in retail. Skilled in systems integration, database management, and development using **JavaScript**, **HTML**, **CSS**, and **Java**. Passionate about technology and constant learning.
 
-Here are some ideas to get you started:
+## Connect with me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/seu-linkedin)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F)](https://www.instagram.com/seu-instagram)
+
+
+## GitHub Stats
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/seu-linkedin)
+
+![Murilo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&theme=radical)
+
+![Murilo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-username&layout=compact&theme=radical)
+
+## About Me
+Passionate about arts and technology. My hobbies include playing games, reading, and learning new programming languages.
