@@ -10,7 +10,6 @@ Tech Analyst with 9 years of experience in system automation in retail. Skilled 
 
 ## GitHub Stats
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/seu-linkedin)
 
 ![Murilo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&theme=radical)
 
