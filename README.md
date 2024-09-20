@@ -1,6 +1,6 @@
-# Murilo Gés
+# Murilo Góes
 
-Tech Analyst with 9 years of experience in system automation in retail. Skilled in systems integration, database management, and development using **JavaScript**, **HTML**, **CSS**, and **Java**. Passionate about technology and constant learning.
+Olá! Sou Murilo Góes, um desenvolvedor front-end apaixonado por criar experiências digitais envolventes e funcionais. Especializo-me em tecnologias como HTML, CSS e JavaScript, sempre buscando novos desafios e projetos que me permitam aprimorar minhas habilidades. Sinta-se à vontade para explorar meus repositórios e entrar em contato para colaborarmos em novas iniciativas!
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
