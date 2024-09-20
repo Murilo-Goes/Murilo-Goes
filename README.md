@@ -4,8 +4,8 @@ Tech Analyst with 9 years of experience in system automation in retail. Skilled 
 
 ## Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/seu-linkedin)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F)](https://www.instagram.com/seu-instagram)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/murilo-góes-b804b1318/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F)](hhttps://www.instagram.com/goes_murilo/)
 
 
 ## GitHub Stats
