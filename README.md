@@ -25,6 +25,4 @@ Olá! Sou Murilo Góes, um desenvolvedor front-end apaixonado por criar experiê
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-username&layout=compact&theme=radical)
 
-## About Me
-Passionate about arts and technology. My hobbies include playing games, reading, and learning new programming languages.
 
