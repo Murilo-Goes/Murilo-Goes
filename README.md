@@ -20,4 +20,4 @@ Tech Analyst with 9 years of experience in system automation in retail. Skilled 
 
 ## About Me
 Passionate about arts and technology. My hobbies include playing games, reading, and learning new programming languages.
-![4412009](https://github.com/user-attachments/assets/86104c1c-8dbc-4612-aa37-c229190621e1)
+
